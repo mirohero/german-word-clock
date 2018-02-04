@@ -327,6 +327,9 @@ void loop() {
     case 12:
       wordZWOELF(color(), color(), color());
       break;
+    case 0:
+      wordZWOELF(color(), color(), color());
+      break;
   }
 
   FastLED.show();
