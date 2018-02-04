@@ -2,7 +2,7 @@
 
 
 
-I've printed https://www.thingiverse.com/thing:2130830 and I didn't find flashable code for the arduino or clones like NodeMCU. So I wrote this simple, synchronized code to flash with the Arduino IDE.
+I've printed the 96-LED word clock https://www.thingiverse.com/thing:2130830 and I didn't find flashable code for the arduino or clones like NodeMCU. So I wrote this simple, synchronized code to flash with the Arduino IDE.
 
 
 

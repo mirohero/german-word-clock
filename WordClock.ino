@@ -286,6 +286,9 @@ void loop() {
     wordVOR(color(), color(), color());
     currentHour += 1;
   }
+  if (currentMinute >= 57 && currentMinute <= 59 ) {
+    currentHour += 1;
+  }
 
   switch (currentHour) {
     case 1:
